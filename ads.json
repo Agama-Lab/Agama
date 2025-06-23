@@ -1,1 +1,18 @@
-{}
+{
+    "Username_Password_Authentication": {
+        "projectName": "Username_Password_Authentication",
+        "description": "Username_Password_Based_Authentication_Flow",
+        "type": "community",
+        "author": "Agama-Lab",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Agama-Lab/Agama",
+        "githubUri": "https://github.com/Agama-Lab/Agama",
+        "license": "apache-2.0",
+        "lastUpdated": "1750671979072",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}

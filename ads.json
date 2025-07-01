@@ -18,5 +18,21 @@
             "": {}
         },
         "name": "Username_Password_Authentication"
+    },
+    "Agama-Registration": {
+        "projectName": "Agama-Registration",
+        "description": "Registration-flow",
+        "type": "community",
+        "author": "Agama-Lab",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Agama-Lab/Agama",
+        "githubUri": "https://github.com/Agama-Lab/Agama",
+        "license": "apache-2.0",
+        "lastUpdated": "1751353107000",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }

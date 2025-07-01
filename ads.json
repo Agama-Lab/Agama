@@ -18,21 +18,5 @@
             "": {}
         },
         "name": "Username_Password_Authentication"
-    },
-    "Res": {
-        "projectName": "Res",
-        "description": "Flow",
-        "type": "community",
-        "author": "Agama-Lab",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/Agama-Lab/Agama",
-        "githubUri": "https://github.com/Agama-Lab/Agama",
-        "license": "apache-2.0",
-        "lastUpdated": "1751367731678",
-        "tags": [
-            "authorization"
-        ],
-        "noDirectLaunch": [],
-        "configs": {}
     }
 }

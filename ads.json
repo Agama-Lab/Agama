@@ -18,5 +18,21 @@
             "": {}
         },
         "name": "Username_Password_Authentication"
+    },
+    "sfggnr": {
+        "projectName": "sfggnr",
+        "description": " gf nnnn",
+        "type": "community",
+        "author": "Agama-Lab",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Agama-Lab/Agama",
+        "githubUri": "https://github.com/Agama-Lab/Agama",
+        "license": "apache-2.0",
+        "lastUpdated": "1751363383339",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
